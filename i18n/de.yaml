@@ -17,3 +17,45 @@
 
 - id: edit_post
   translation: "Bearbeiten"
+
+- id: code_copy
+  translation: "kopieren"
+
+- id: code_copied
+  translation: "kopiert"
+
+- id: January
+  translation: Januar
+
+- id: February
+  translation: Februar
+
+- id: March
+  translation: März
+
+- id: April
+  translation: April
+
+- id: May
+  translation: Mai
+
+- id: June
+  translation: Juni
+
+- id: July
+  translation: Juli
+
+- id: August
+  translation: August
+
+- id: September
+  translation: September
+
+- id: October
+  translation: Oktober
+
+- id: November
+  translation: November
+
+- id: December
+  translation: Dezember
